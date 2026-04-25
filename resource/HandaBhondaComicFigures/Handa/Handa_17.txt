@@ -1,3 +1,3 @@
-Description: A cartoon-style character named Handa with a yellow face and large curved hairstyle extending to the right. The character has a surprised or expressive look. The background is light purple, and the image appears printed on textured fabric.
+Description: Handa_face, a cartoon-style character named Handa with a yellow face and large curved hairstyle extending to the right. The character has a surprised or expressive look. The background is light purple, and the image appears printed on textured fabric.
 Tags: handa_face, Cartoon character, Surprised expression, Curved hairstyle, Yellow face, Comic illustration, Purple background
 Character: Handa
