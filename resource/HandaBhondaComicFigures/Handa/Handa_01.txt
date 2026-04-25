@@ -1,3 +1,3 @@
 Description: A cartoon-style profile drawing of Handa (blue shirt boy) facing left. He has a large exaggerated smile, round nose, and thick black hair shaped like a cap with two short curved strands at the back. His skin tone is light yellow, outlined in bold black lines. The background is plain white, emphasizing the vintage comic aesthetic.
-Tags: Handa, cartoon profile, exaggerated smile, vintage comic style, yellow skin tone, black hair curl, plain background
+Tags: handa_face, Handa, cartoon profile, exaggerated smile, vintage comic style, yellow skin tone, black hair curl, plain background
 Character: Handa

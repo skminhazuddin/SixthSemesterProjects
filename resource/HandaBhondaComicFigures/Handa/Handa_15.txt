@@ -1,3 +1,3 @@
 Description: A cartoon character named Handa with tan skin and a large wave-like hairstyle. Wearing a blue shirt, the character’s mouth is wide open as if shouting or speaking. A partially visible speech bubble appears above, with a green background behind.
-Tags: Cartoon character, Shouting expression, Wave hairstyle, Comic panel, Blue shirt, Green background
+Tags: handa_face, Cartoon character, Shouting expression, Wave hairstyle, Comic panel, Blue shirt, Green background
 Character: Handa
